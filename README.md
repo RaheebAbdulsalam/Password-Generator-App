@@ -9,7 +9,7 @@ The Password Generator app created within JavaFx is a simple utility that genera
 - Copy generated passwords to the clipboard with a single click
 - Simple and intuitive user interface
 
-<img src="https://github.com/RaheebAbdulsalam/Password-Generator-App/assets/99501966/93caa497-f03c-47b0-987e-78c3f3b990cf">
+<img src="https://github.com/RaheebAbdulsalam/Password-Generator-App/assets/99501966/93caa497-f03c-47b0-987e-78c3f3b990cf" alt="app interface" width="300" height="200">
 
 ## Technologies Used
 
