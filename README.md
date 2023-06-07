@@ -8,8 +8,9 @@ The Password Generator app created within JavaFx is a simple utility that genera
 - Generate random passwords with a mix of character types: uppercase letters, lowercase letters, numbers, special characters
 - Copy generated passwords to the clipboard with a single click
 - Simple and intuitive user interface
-
+<div style="text-align: center;">
 <img src="https://github.com/RaheebAbdulsalam/Password-Generator-App/assets/99501966/93caa497-f03c-47b0-987e-78c3f3b990cf" alt="app interface" width="500" height="400">
+  </div>
 
 ## Technologies Used
 
