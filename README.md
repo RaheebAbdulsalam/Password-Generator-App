@@ -1,9 +1,6 @@
-# Password-Generator-App
-A password generator application created within JavaFx
-
 # Password Generator App
 
-The Password Generator app is a simple utility that generates random passwords based on the user's preferences. It provides flexibility in choosing the password length.
+The Password Generator app created within JavaFx is a simple utility that generates random passwords based on the user's preferences. 
 
 ## Features
 
@@ -12,7 +9,7 @@ The Password Generator app is a simple utility that generates random passwords b
 - Copy generated passwords to the clipboard with a single click
 - Simple and intuitive user interface
 
-
+<img src="https://github.com/RaheebAbdulsalam/Password-Generator-App/assets/99501966/93caa497-f03c-47b0-987e-78c3f3b990cf">
 
 ## Technologies Used
 
